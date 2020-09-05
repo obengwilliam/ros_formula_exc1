@@ -1,0 +1,7 @@
+*.log 
+
+kthfsdv/buid/*
+kthfsdv/logs/*
+kthfsdv/devel/*
+
+*.swp

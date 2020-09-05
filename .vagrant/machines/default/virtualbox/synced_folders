@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/obeng/Work/studytime/ros","disabled":false,"__vagrantfile":true}},"rsync":{"/home/vagrant/kthfsdv":{"type":"rsync","guestpath":"/home/vagrant/kthfsdv","hostpath":"/Users/obeng/Work/studytime/ros/kthfsdv","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}

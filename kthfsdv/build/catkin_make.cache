@@ -1,0 +1,2 @@
+exc1/publisher
+-DCATKIN_DEVEL_PREFIX=/home/vagrant/kthfsdv/devel -DCMAKE_INSTALL_PREFIX=/home/vagrant/kthfsdv/install -G Unix Makefiles
