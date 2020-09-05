@@ -1,6 +1,6 @@
 *.log 
 
-kthfsdv/buid/*
+kthfsdv/build/*
 kthfsdv/logs/*
 kthfsdv/devel/*
 
