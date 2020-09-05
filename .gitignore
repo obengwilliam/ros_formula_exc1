@@ -1,6 +1,7 @@
 *.log 
 
 kthfsdv/build/*
+kthfsdv/.catkin_tools/*
 kthfsdv/logs/*
 kthfsdv/devel/*
 
